@@ -5,7 +5,7 @@ package com.test.idea;
  */
 public class HelloWorld {
     public String say(String name){
-        return name;
+        return "welcome to you:"+name;
     }
     public static void main(String[] args){
         System.out.println("helo world");
